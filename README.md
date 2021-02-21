@@ -1,8 +1,3 @@
-<a href="https://github.com/Guangxuan-Xiao"><img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Guangxuan-Xiao&show_icons=true&include_all_commits=true" /></a>
-
-<a href="https://github.com/Guangxuan-Xiao"><img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guangxuan-Xiao&layout=compact&hide=HTML,CSS,QMAKE" /></a>
-
-
 ### Hi there 👋
 <!--
 **Guangxuan-Xiao/Guangxuan-Xiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/Guangxuan-Xiao"><img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Guangxuan-Xiao&show_icons=true&include_all_commits=true" /></a>
+
+<a href="https://github.com/Guangxuan-Xiao"><img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guangxuan-Xiao&layout=compact&hide=HTML,CSS,QMAKE" /></a>
+
