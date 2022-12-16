@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/Guangxuan-Xiao"><img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guangxuan-Xiao&layout=compact&hide=HTML,CSS,QMAKE" /></a>
+<!-- <a href="https://github.com/Guangxuan-Xiao"><img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guangxuan-Xiao&layout=compact&hide=HTML,CSS,QMAKE" /></a> -->
 
